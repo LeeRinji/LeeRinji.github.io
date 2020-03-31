@@ -1,22 +1,13 @@
-title: wu-kan # 站点标题
+title: LeeRinji # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
-  SYSU超算17级在读<br/>
-  永远喜欢水野爱<br/>
-  田宫例四驱车<br/>
-  ASC<br/>
-  <a href="mailto:i@wu-kan.cn">
-    <i class="fas fa-envelope"></i>
-  </a>
-  <a href="https://github.com/wu-kan">
+  香港科技大学 大数据科技<br/>
+  中山大学 政治学与行政学<br/>
+  中山大学 智能科学与技术<br/>
+  江苏省常州高级中学<br/>
+  <a href="https://github.com/LeeRinji">
     <i class="fab fa-github"></i>
   </a>
-  <a href="https://codeforces.com/profile/WuK">
-    <i class="fas fa-chart-bar"></i>
-  </a>
-  <a href="https://vjudge.net/user/WuK">
-    <i class="fas fa-smile"></i>
-  </a>
-  <a href="https://www.zhihu.com/people/wu.kan/activities">
+  <a href="https://www.zhihu.com/people/rinji-lee">
     <i class="fab fa-zhihu"></i>
   </a>
   <iframe
@@ -28,7 +19,7 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
     marginwidth="0"
     marginheight="0"
   ></iframe>
-url: https://wu-kan.github.io # 你的域名，例如https://wu-kan.github.io
+url: https://LeeRinji.github.io # 你的域名，例如https://wu-kan.github.io
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
 jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
