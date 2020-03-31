@@ -1,9 +1,8 @@
 title: LeeRinji # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
-  香港科技大学 大数据科技<br/>
-  中山大学 政治学与行政学<br/>
-  中山大学 智能科学与技术<br/>
-  江苏省常州高级中学<br/>
+  HKUST Big Data Tech<br/>
+  SYSU 政治学<br/>
+  SYSU 智能科学<br/>
   <a href="https://github.com/LeeRinji">
     <i class="fab fa-github"></i>
   </a>
@@ -343,7 +342,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
                 document.getElementById("run_time_hour").innerHTML = setzero(hrsold);
                 document.getElementById("run_time_minute").innerHTML = setzero(minsold);
                 document.getElementById("run_time_second").innerHTML = setzero(seconds);
-              }, 1000, "10/04/2017 11:03:56") // 这是我第一篇CSDN博客的时间
+              }, 1000, "31/03/2020 20:00:00") // 这是我第一篇CSDN博客的时间
             </script>
           </div>
         - | # 不蒜子页面统计，看不懂可不改
