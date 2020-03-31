@@ -13,8 +13,8 @@
 <!-- slide vertical=true -->
 
 - E-mail:
-  - **[i@wu-kan.cn](mailto:i@rinjilee.com)**
-  - **[wukan3@mail2.sysu.edu.cn](mailto:liyj69@mail2.sysu.edu.cn)**
+  - **[i@rinjilee.com](mailto:i@rinjilee.com)**
+  - **[liyj69@mail2.sysu.edu.cn](mailto:liyj69@mail2.sysu.edu.cn)**
 - WeChat: **VENUNFT**
 - QQ: **1257576160**
 
