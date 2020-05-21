@@ -21,6 +21,5 @@
 
  - The Hong Kong University of Science and Technology, School of Engineering
    - MSc in Big Data Technology
- - Sun Yat-sen University, SDCS & SOG
-   - Minor in Politics and Administration
+ - Sun Yat-sen University, School of Data and Computer Science
    - BEng in Intelligence Science and Technology
