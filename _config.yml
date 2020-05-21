@@ -505,7 +505,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
     append_before: |
       <link
         rel="stylesheet"
-        href="https://cdn.jsdelivr.net/combine/npm/reveal.js/css/reveal.min.css,npm/reveal.js/css/theme/serif.min.css"
+        href="https://cdn.jsdelivr.net/combine/npm/reveal.js@4.0.0/dist/reveal.min.css,npm/reveal.js@4.0.0/dist/theme/serif.min.css"
       />
       <style>
         .sidebar {
@@ -517,26 +517,19 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       </style>
       <script
         defer="defer"
-        src="https://cdn.jsdelivr.net/npm/reveal.js/js/reveal.min.js"
+        src="https://cdn.jsdelivr.net/combine/npm/reveal.js@4.0.0/dist/reveal.min.js,npm/reveal.js@4.0.0/plugin/markdown/markdown.js"
         onload="
         document.getElementsByClassName('wrap')[0].classList.add('reveal');
-        let path = 'https:\/\/cdn.jsdelivr.net/npm/reveal.js/';
-        Reveal.initialize({
+        let deck = new Reveal({
           height: '100%',
           hash: true,
           mouseWheel: true,
           navigationMode: 'linear',
           parallaxBackgroundImage: 'data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAD8D+JaQAA3AA/uVqAAA=',//这是一张纯白图
-          dependencies: [
-              { src: path+'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-              { src: path+'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-              { src: path+'plugin/highlight/highlight.js', async: true },
-              { src: path+'plugin/zoom-js/zoom.js', async: true },
-              { src: path+'plugin/notes/notes.js', async: true },
-              { src: path+'plugin/math/math.js', async: true }
-          ]
+          plugins: [ RevealMarkdown ]
           });
-        "></script>
+        deck.initialize();
+      "></script>
   page404:
     append_before:
       - | # 腾讯公益
