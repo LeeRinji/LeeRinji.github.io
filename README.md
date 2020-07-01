@@ -15,7 +15,7 @@
 - WeChat: **LeeRinji**
 - Site: 
   - **<https://rinjilee.com>**
-  - **<https://leerj.com>** (Rediect to rinjilee.com)
+  - **<https://leerj.com>** (Redirect to **<rinjilee.com>**)
 
 <!-- slide -->
 
