@@ -22,6 +22,6 @@
 ## Education Experience
 
  - The Hong Kong University of Science and Technology, School of Engineering
-   - MSc in Big Data Technology
+   - MSc in Big Data Technology (Expected)
  - Sun Yat-sen University, School of Data and Computer Science
    - BEng in Intelligence Science and Technology
