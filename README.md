@@ -14,8 +14,8 @@
   - **[i@rinjilee.com](mailto:i@rinjilee.com)**
 - WeChat: **LeeRinji**
 - Site: 
-  - **<https://rinjilee.com>**
-  - **<https://leerj.com>** (Redirect to rinjilee.com)
+  - **<http://rinjilee.com>**
+  - **<http://leerj.com>** (Redirect to rinjilee.com)
 
 <!-- slide -->
 
