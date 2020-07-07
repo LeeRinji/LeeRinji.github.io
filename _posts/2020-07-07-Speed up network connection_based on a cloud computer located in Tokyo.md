@@ -32,7 +32,7 @@ This step takes no more than 10 minutes.
    - server location: Tokyo or New York
    - server type: Debian 10 x64
    - server size (Tokyo): $5/month
-   - server size (New York): $3.5/month or $5/month
+   - server size (New York): \$3.5/month or \$5/month
  - Choose Deploy Now, you can find Alipay and WechatPay in Billing. 
 
 After returning to the products option, you can find a new cloud instance. You need to wait for its Status to change from Installing to Running before you can use it. Click directly on Cloud Instance to enter to view server information. We can see important options such as Ip Address, Username and password. The next step is to build a proxy server.
@@ -94,4 +94,4 @@ Then, what you need to do is visit [Google](https://google.com), normally, you w
 
 Finally, I would like to end this article with an irrelevant sentence.
 
->But there will be no gloom for her who was in anguish. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ISAIAH 9:1
+>But there will be no gloom for her who was in anguish. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ISAIAH 9:1
