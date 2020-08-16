@@ -465,6 +465,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           var usage = "payment";
           var wechat = "wxp://f2f0yAEq14EOD9ruLICZxjwHDEvSR5DYnVs6";
           var alipay = "https://qr.alipay.com/fkx04595uwmj3hfqolcw843";
+          var paypal = "https://paypal.me/rinjilee";
           var myname = "LeeRinji";
           var profile = "https://s1.ax1x.com/2020/03/31/GlFuaq.jpg";
           var multilingual = true;
