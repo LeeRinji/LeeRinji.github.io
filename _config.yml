@@ -5,12 +5,6 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   Go Player<br/>
   Major in IST, BDT<br/>
   Minor in Politics<br/>
-#  <a href="https://github.com/LeeRinji">
-#    <i class="fab fa-github"></i>
-#  </a>
-#  <a href="https://www.zhihu.com/people/rinji-lee">
-#    <i class="fab fa-zhihu"></i>
-#  </a>
   <iframe
     src="https://music.163.com/outchain/player?type=2&id=4909215&auto=0&height=32"
     width=100%
