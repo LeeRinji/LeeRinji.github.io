@@ -3,13 +3,14 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   HKUST STUDENT<br/>
   SYSU ALUMNUS<br/>
   Go Player<br/>
+  Major in IST, BDT<br/>
   Minor in Politics<br/>
-  <a href="https://github.com/LeeRinji">
-    <i class="fab fa-github"></i>
-  </a>
-  <a href="https://www.zhihu.com/people/rinji-lee">
-    <i class="fab fa-zhihu"></i>
-  </a>
+#  <a href="https://github.com/LeeRinji">
+#    <i class="fab fa-github"></i>
+#  </a>
+#  <a href="https://www.zhihu.com/people/rinji-lee">
+#    <i class="fab fa-zhihu"></i>
+#  </a>
   <iframe
     src="https://music.163.com/outchain/player?type=2&id=4909215&auto=0&height=32"
     width=100%
@@ -469,8 +470,8 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           var myname = "LeeRinji";
           var profile = "https://s1.ax1x.com/2020/03/31/GlFuaq.jpg";
           var multilingual = true;
-          var myname_hans = "李宇杰";
-          var myname_hant = "李宇杰";
+          var myname_hans = "RinjiLee";
+          var myname_hant = "RinjiLee";
           var myname_eng = "RinjiLee";
           var title = "选择你的支付方式";
           var subtitle = "跟随进一步的指示以向" + myname + "付款";

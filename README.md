@@ -10,10 +10,10 @@
 ## Contact
 
 - E-mail:
-  - **[liyj69@mail3.sysu.edu.cn](mailto:liyj69@mail3.sysu.edu.cn)**
+  - **[ylilc@connect.ust.hk](mailto:ylilc@connect.ust.hk)**
   - **[i@rinjilee.com](mailto:i@rinjilee.com)**
-- WeChat: **LeeRinji**
-- Site: 
+- Telegram: **RJLee**
+- Website: 
   - **<https://rinjilee.com>**
   - **<https://leerj.com>** (Redirect to rinjilee.com)
 
