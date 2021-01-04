@@ -14,8 +14,8 @@
   - **[i@rinjilee.com](mailto:i@rinjilee.com)**
 - Telegram: **RJLee**
 - Website: 
-  - **<https://rinjilee.com>**
-  - **<https://leerj.com>** (Redirect to rinjilee.com)
+  - **<https://leevj.com>**
+  - **<https://leerj.com>**
 
 <!-- slide -->
 
