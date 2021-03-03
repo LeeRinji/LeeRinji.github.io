@@ -21,7 +21,10 @@
 
 ## Education Experience
 
+ - The Chinese University of Hong Kong, Faculty of Social Science
+   - PhD in Sociology (Expected)
  - The Hong Kong University of Science and Technology, School of Engineering
    - MSc in Big Data Technology (Expected)
  - Sun Yat-sen University, School of Data and Computer Science
    - BEng in Intelligence Science and Technology
+   - Minor in Politics and Administration
